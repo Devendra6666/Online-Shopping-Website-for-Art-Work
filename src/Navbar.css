@@ -1,0 +1,22 @@
+.navbar{
+    background-color: rgb(58, 58, 155);
+    color: white;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+.nav-link{
+    color: white;
+    transition: 2s ease;
+    font-size: 18px;
+    font-variant: small-caps;
+}
+.navbar-brand{
+    color: white;
+    font-variant: small-caps;
+}
+.nav-link:hover{
+    transform: scale(0.8);
+    color: white;
+}

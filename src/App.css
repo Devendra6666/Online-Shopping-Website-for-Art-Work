@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.home_image{
+  width: 100%;
+  height: 400px;
+}
+.content_section{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-variant: small-caps;
+  text-decoration: underline;
+}
+.para_sec{
+  font-variant: small-caps;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  margin-left: 50px;
+}
+.pp{
+  margin-left: 30%;
+
+}
+.map_display{
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.m_con{
+  display: flex;
+  justify-content: space-around;
+}
+.m_con p{
+  font-variant: small-caps;
+}

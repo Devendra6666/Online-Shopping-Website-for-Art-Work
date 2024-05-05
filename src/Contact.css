@@ -1,0 +1,13 @@
+h5{
+  font-size: 15px;
+  font-variant: small-caps;
+  text-align: center;
+  margin-top: 20px;
+  /* color:blue; */
+}
+.contact-section{
+    width: 20%;
+    position: relative;
+    left: 40%;
+    margin-top: 20px;
+}

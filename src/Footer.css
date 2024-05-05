@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    background-color: rgb(52, 52, 165);
+    padding: 30px;
+}
+.subfooters{
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    color: white;
+}
+.subone{
+    display: flex;
+    align-items: center;
+    /* font-family: "Rubik Scribble", system-ui;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: normal; */
+}
+.subone h4{
+    display: flex;
+    align-items: center;
+    font-family: "Rubik Scribble", system-ui;
+  font-weight: 400;
+  font-size: 40px;
+  font-style: normal;
+}
+.subtwo p{
+    margin-top: -15px;
+    font-size: 13px;
+}
+.subtwo h5{
+    margin-bottom: 30px;
+    font-family:cursive;
+}
+.subthree p{
+    margin-top: -15px;
+    font-size: 13px;
+}
+.subthree h5{
+    margin-bottom: 30px;
+    font-family:cursive;
+}
+.subfour p{
+    margin-top: -15px;
+    font-size: 13px;
+}
+.subfour h5{
+    margin-bottom: 30px;
+    font-family:cursive;
+}
+.copy{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+.copy p{
+    font-size: 12px;
+}
+.icon a{
+    font-style: none;
+    color: white;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}

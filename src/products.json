@@ -1,0 +1,171 @@
+[
+    {
+      "id": "thapaserialnoa",
+      "name": "LordKrishna",
+      "company": "Artistic",
+      "price": 6000000,
+      "colors": [
+        "#ff0000",
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8dd9XD5hQ_NXwLiPBk11iR4qsOLielfIUf1xHG9O5A&s",
+      "description": "Krishna paintings often employ symbolism and metaphor to convey deeper meanings. The peacock feather in Krishna's crown symbolizes beauty and grace, while the flute represents divine music and harmony. Also The lotus flower, often depicted in Krishna's hands, signifies purity and spiritual enlightenment..",
+      "category": "Art",
+      "featured": true
+    },
+    {
+      "id": "thapaserialnob",
+      "name": "SteemitHorse",
+      "company": "Gallery",
+      "price": 5000000,
+      "colors": [
+        "#000",
+        "#22D3EF"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-iTljV4BtvCDC7kFRoKYu4aAAvwaL-KU6_88yzdRJA&s",
+      "description": "The beauty and power of a majestic horse in motion inspires a sense of vitality and awe. Horse paintings have fascinated artists worldwide for centuries due to the intricate anatomical features and graceful movement of these magnificent creatures..",
+      "category": "Art",
+      "shipping": true
+    },
+    {
+      "id": "thapaserialnoc",
+      "name": "ShreeRamaPicture",
+      "company": "Article",
+      "price": 600000,
+      "colors": [
+        "#22D3EF",
+        "#CDD0D0"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71NmAPuKigL.jpg",
+      "description": "Shri Rama-pattabhishekam Also depicting Saptarishis on one side and Lakshmana, Bharata and Shatrughna on the other, Vanara nobles like Vibheeshana and Sugreeva, Angada and Neela are also seen. The painting is decorated in gold work and coloured glass base in a wooden frame, from Tanjore, dated to the 19th century..",
+      "category": "Artistic"
+    },
+    {
+      "id": "thapaserialnod",
+      "name": "WolfArt",
+      "company": "Picture Art",
+      "price": 12599,
+      "colors": [
+        "#000",
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ59niTDQFsAvEQz_jRt_6b38PSYB1SlcArmr-Cd2Mgiw&s",
+      "description": "This colourful painting of a wolf in a dark forest depicts the turbulent state of nature. The wolf's penetrating gaze reflects the helplessness of fauna on earth. The wolf slowly disappears with the wind, this is a symbolic representation of the changing state of the earth and protected species increasing..",
+      "category": "Succesors",
+      "shipping": true
+    },
+    {
+      "id": "thapaserialnoe",
+      "name": "LordRam",
+      "company": "Arts God",
+      "price": 4000099,
+      "colors": [
+        "#000",
+        "#CDD0D0"
+      ],
+      "image": "https://cdna.artstation.com/p/assets/images/images/029/192/314/large/nikhil-mishra-ram-ji-wm-2.jpg?1596734860",
+      "description": "Shri Rama-pattabhishekam Also depicting Saptarishis on one side and Lakshmana, Bharata and Shatrughna on the other, Vanara nobles like Vibheeshana and Sugreeva, Angada and Neela are also seen. The painting is decorated in gold work and coloured glass base in a wooden frame, from Tanjore, dated to the 19th century",
+      "category": "Digital",
+      "shipping": true
+    },
+    {
+      "id": "thapaserialnof",
+      "name": "NatureArt",
+      "company": "Wild Force",
+      "price": 42999,
+      "colors": [
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://rukminim2.flixcart.com/image/850/1000/kxdl3m80/wall-decoration/g/7/s/digital-digital-art-artwork-illustration-drawing-hd-wallpaper-original-imag9uh5hkfzfzgu.jpeg?q=90&crop=false",
+      "description": "A form of art inspired by nature is Ephemeral art. Artistic creations are made from items found in nature including leaves, sticks, bark, pebbles, seedpod, nuts, berries, petals, sand or shells. Options are endless, anything in nature can be used.",
+      "category": "Artistry",
+      "shipping": true
+    },
+    {
+      "id": "thapaserialnog",
+      "name": "ArtofDestroyer",
+      "company": "paint Pro",
+      "price": 23999,
+      "colors": [
+        "#CDD0D0",
+        "#000"
+      ],
+      "image": "https://www.woodgeekstore.com/cdn/shop/products/lord-shiva-engraved-wood-poster_1200x.jpg?v=1655539354",
+      "description": "Before World War II, destroyers were light vessels with little endurance for unattended ocean operations; typically, a number of destroyers and a single destroyer tender operated together. After the war, destroyers grew in size. The American Allen M. Sumner-class destroyers had a displacement of 2,200 tons, while the Arleigh Burke class has a displacement of up to 9,600 tons, a difference of nearly 340%. Moreover, the advent of guided missiles allowed destroyers to take on the surface-combatant roles previously filled by battleships and cruisers. This resulted in larger and more powerful guided-missile destroyers more capable of independent operation..",
+      "category": "brutal",
+      "shipping": true
+    },
+    {
+      "id": "thapaserialnoh",
+      "name": "Lion Art",
+      "price": 1099999,
+      "company": "wildArts",
+      "colors": [
+        "#000",
+        "#CDD0D0"
+      ],
+      "image": "https://wallpapersmug.com/download/1080x1920/d003fc/lion-fur-muzzle-art.jpg",
+      "description": "Lion Paintings - A Celebration of Strength: Our lion paintings are more than mere images; they are a celebration of strength and courage. Whether you're drawn to the intense gaze of a roaring lion or the serene beauty of a resting pride, our collection encapsulates the diverse facets of these magnificent creatures..",
+      "category": "Animal",
+      "featured": true,
+      "shipping": true
+    },
+    {
+      "id": "thapaserialnoi",
+      "name": "ButterflyArt",
+      "price": 39999,
+      "company": "Photo Shoot",
+      "colors": [
+        "#000000"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6vEBiWCxB46U7bg5LgASBbb5AjDBVAEPmWxfVW6Mtxw&s",
+      "description": "Butterfly Art Symbolism Butterflies represent powerful and profound meanings of life. The insects are metaphors for life, hope, change, transformation, spiritual rebirth, and mystery symbolism. These creatures serve to remind us that life is short and closely mirrors the process of spiritual transformation.",
+      "category": "feathers",
+      "shipping": true
+    },
+    {
+      "id": "thapaserialnoj",
+      "name": "Abstract",
+      "company": "Dark Theme",
+      "price": 300099,
+      "colors": [
+        "#ff0000",
+        "#22D3EF",
+        "#000000"
+      ],
+      "image": "https://www.theartstory.org/images20/works/picasso_pablo_1.jpg?2",
+      "description": "Painting is a visual art, which is characterized by the practice of applying paint, pigment, color or other medium to a solid surface cal. The medium is commonly applied to the base with a brush, but other implements, such as knives, sponges, and airbrushes, may be used..",
+      "category": "color"
+    },
+    {
+      "id": "thapaserialnok",
+      "name": "MixofBeauty",
+      "company": "COLOUR Radar",
+      "price": 999999,
+      "colors": [
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?cs=srgb&dl=pexels-paduret-1193743.jpg&fm=jpg",
+      "description": "Painting is a visual art, which is characterized by the practice of applying paint, pigment, color or other medium to a solid surface cal. The medium is commonly applied to the base with a brush, but other implements, such as knives, sponges, and airbrushes, may be used..",
+      "category": "mixture"
+    },
+    {
+      "id": "thapaserialnol",
+      "name": "ArtofLandScape",
+      "price": 311999,
+      "company": "Painting",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrxSoWWj61yJ521MiodVB3gc4RNEmgeZLkB9pNw6OJA&s",
+      "description": "Painting is a visual art, which is characterized by the practice of applying paint, pigment, color or other medium to a solid surface cal. The medium is commonly applied to the base with a brush, but other implements, such as knives, sponges, and airbrushes, may be used..",
+      "category": "Paint",
+      "featured": true
+    }
+  ]
